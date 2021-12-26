@@ -12,6 +12,8 @@
 
 >Double click the delete all button to delete all saved links.
 
+>Each link has a copy & delete button next to it.
+
 <p align="left"> 
  <img src="https://user-images.githubusercontent.com/73500883/147393671-8b0a116d-163f-4fc2-b0d0-c7431be7a513.PNG">
 </p>  
